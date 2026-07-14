@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Hướng dẫn bé học"
+title: "book"
 ---
 
 ### Tải sách về học nè:
